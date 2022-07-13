@@ -1,3 +1,8 @@
+@import url('https://fonts.googleapis.com/css2?family=Karla:wght@400;700&display=swap');
+* {
+    font-family: 'Karla', sans-serif;
+}
+
 html {
     background-color: hsl(204, 43%, 93%);
 }
@@ -34,7 +39,6 @@ p {
 .commumity>p {
     color: hsl(218, 22%, 67%);
     font-size: 16px;
-    /* margin: 24px 0; */
 }
 
 .subscription {
@@ -105,7 +109,7 @@ ul {
 li {
     list-style: none;
     font-size: 18px;
-    margin: 10px 0;
+    margin: 2px 0;
     color: hsl(204, 43%, 93%);
     font-weight: 400;
 }
